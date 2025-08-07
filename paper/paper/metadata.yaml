@@ -1,0 +1,18 @@
+---
+title: "M-(n+1) Prime Filtering: A Python Package for Efficient Primality Testing"
+authors:
+  - name: Fadwa Hamdi Barakat
+    orcid: 0000-0000-XXXX-XXXX
+    affiliation: 1
+    email: myjoran00@gmail.com
+affiliations:
+  - name: Jadara University, Department of Design Communication, Irbid, Jordan
+    index: 1
+keywords:
+  - python
+  - number theory
+  - primality testing
+  - mathematics
+  - cryptography
+repository: https://github.com/fadwa84/prime-filtering
+paper: paper.md
